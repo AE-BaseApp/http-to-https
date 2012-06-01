@@ -1,0 +1,40 @@
+application: http-to-https
+version: 1
+runtime: python27
+api_version: 1
+threadsafe: yes
+
+libraries:
+- name: webapp2
+  version: latest
+
+handlers:
+- url: /static/images/favicon\.ico
+  static_files: static/images/favicon.ico
+  upload: static/images/favicon\.ico
+  mime_type: image/vnd.microsoft.icon
+  expiration: "180d"
+
+- url: /(.*\.(gif|png|jpg))
+  static_files: \1
+  upload: (.*\.(gif|png|jpg))
+  expiration: "180d"
+
+- url: /static/css
+  static_dir: static/css
+  expiration: "180d"
+
+- url: /static/js
+  static_dir: static/js
+  expiration: "180d"
+
+- url: /profile
+  script: main.app
+  secure: always
+
+- url: /login
+  script: main.app
+  secure: always
+
+- url: /.*
+  script: main.app
