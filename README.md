@@ -1,8 +1,5 @@
 [HTTP-to-HTTPS](http://http-to-https.appspot.com) - Python / webapp2 / Base App
-==============================================
-
-HTTP-to-HTTPS BaseApp
----------------------
+===============================================================================
 
 [AE-BaseApp](http://AE-BaseApp.appspot.com) is a multi-platform app-engine base-app created by 
 [Mark Finch](http://markfinch.info) to assist developers looking to build their first applications 
@@ -15,7 +12,8 @@ reference to my [Stack Overflow](http://stackoverflow.com/questions/10804873/how
 question on this subject.  Please check out the other AE-BaseApp applications
 for more feature complete Base Applications.  Please note this application 
 uses AdSense and the source includes my AdSense code, if you object to AdSense
-it shouldn't be trouble to Remove the few lines that import them.
+it shouldn't be trouble to Remove the few lines that import them, also you 
+can easily change the code to your own.
 
 Accomplished:
 -------------
@@ -45,7 +43,7 @@ Setup:
   * Edit the app.yaml file to change the application name.
   * Run the dev server.
   * Go back to the home page and double check everything is working.
-  * Hack away, but remember you break it you bought it!  *wink* [One][1]
+  * Hack away, but remember you break it you bought it!  *wink* [1](1)
 
 License:
 --------
@@ -55,4 +53,4 @@ Please check the file LICENSE to see other licenses that impact this project.
 
 Notes:
 ------
-*  [One] The corollary is you got what you paid for!
+*  (1) The corollary is you got what you paid for!
