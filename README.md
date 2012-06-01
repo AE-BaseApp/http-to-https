@@ -1,8 +1,8 @@
-[HTTP-to-HTTPS](http://http-to-https.appspot.com) - Python / webapp2 / Google App Engine Base App
+[HTTP-to-HTTPS](http://http-to-https.appspot.com) - Python / webapp2 / Base App
 ==============================================
 
 HTTP-to-HTTPS BaseApp
----------------
+---------------------
 
 [AE-BaseApp](http://AE-BaseApp.appspot.com) is a multi-platform app-engine base-app created by 
 [Mark Finch](http://markfinch.info) to assist developers looking to build their first applications 
@@ -10,8 +10,12 @@ leveraging [Google's Cloud Infrastructure](http://developers.google.com/appengin
 on the video from [Brett Slatkin](http://www.google.com/profiles/bslatkin) introducing Google App Engine at 
 [Google IO 2008](http://sites.google.com/site/io/).
 
-Please check out the other AE-BaseApp applications for more feature complete
-Base Applications.
+This simple application is for demonstrating HTTP to HTTPS routes using WSGI, in 
+reference to my [Stack Overflow](http://stackoverflow.com/questions/10804873/how-to-use-wsgi-to-reroute-a-user-from-http-to-https)
+question on this subject.  Please check out the other AE-BaseApp applications
+for more feature complete Base Applications.  Please note this application 
+uses AdSense and the source includes my AdSense code, if you object to AdSense
+it shouldn't be trouble to Remove the few lines that import them.
 
 Accomplished:
 -------------
