@@ -1,14 +1,14 @@
 AE-BaseApp / AE-Python is hosted on GitHub.com:
 -----------------------------------------------
 
-The URL for AE-Python source is:  (http://github.com/markfinch/AE-Python)[http://github.com/markfinch/AE-Python]
+The URL for AE-Python source is:  [http://github.com/markfinch/AE-Python](http://github.com/markfinch/AE-Python)
 
 To commit simply fork the repo, make your changes and do a push.  This is
-explained in detail on GitHub: (http://help.github.com/fork-a-repo/)[http://help.github.com/fork-a-repo/]
+explained in detail on GitHub: [http://help.github.com/fork-a-repo/](http://help.github.com/fork-a-repo/)
 
 Style:
 ------
-  * Use Pep 8 for code style:  (http://www.python.org/dev/peps/pep-0008/)[http://www.python.org/dev/peps/pep-0008/]
+  * Use Pep 8 for code style:  [http://www.python.org/dev/peps/pep-0008/](http://www.python.org/dev/peps/pep-0008/)
 
 Code Pattern:
 -------------
@@ -32,7 +32,7 @@ Copyright Assignment
   and send us the assignment as well if you are student or faculty.
 
   We have made it easier than most projects.  Using the email address you will
-  be committing from go to (Committing)[http://ae-baseapp.appspot.com/committing] fill out
+  be committing from go to [Committing](http://ae-baseapp.appspot.com/committing) fill out
   the form and submit it.  If your company/school needs to provide this
   assignment then arrange for the principle to fill out the form as well.  If
   you change your email address you will need to update this assignment.
