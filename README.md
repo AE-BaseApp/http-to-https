@@ -43,7 +43,7 @@ Setup:
   * Edit the app.yaml file to change the application name.
   * Run the dev server.
   * Go back to the home page and double check everything is working.
-  * Hack away, but remember you break it you bought it!  *wink* [1](1)
+  * Hack away, but remember you break it you bought it!  *wink* 1
 
 License:
 --------
@@ -53,4 +53,4 @@ Please check the file LICENSE to see other licenses that impact this project.
 
 Notes:
 ------
-*  (1) The corollary is you got what you paid for!
+*  1 The corollary is you got what you paid for!
